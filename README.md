@@ -17,8 +17,7 @@ The R code uses the plyr and the reshape R packages.
 1. Put run_analyis.R file in your local directory where your dataset resides (see Pre-Requisites).
 2. Load up R.
 3. Source the script.
-  ```source("run_analysis.R")
-  ```
+    source("run_analysis.R")
 4. Check the local directory for the generated text files.
 
 ### Program Algorithm
