@@ -18,7 +18,7 @@ This program assumes that you have already downloaded and uncompressed the datas
 The R code uses the plyr and the reshape R packages.
 
 #### Steps To Run
-1. Put run_analyis.R file in your local directory where your dataset resides (see Pre-Requisites).
+1. Put _run_analyis.R_ file in your local directory where your dataset resides (see *Pre-Requisites*).
 2. Load up R.
 3. Source the script.
     ```source("run_analysis.R")
