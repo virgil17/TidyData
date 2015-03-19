@@ -2,17 +2,17 @@
 Data Cookbook and R Analysis program for cleaning up the dataset.
 
 There are 4 files in this directory:
-- README.md
+- _README.md_
   - this file
-- GY_tidydata_step4.txt
+- _GY_tidydata_step4.txt_
   - output for Step 4, the consolidated training and test data set with subject and activity name.
-- GY_tidydata_step5.txt
+- _GY_tidydata_step5.txt_
   - output for Step 5, containing the averages for each variable for each activity and subject.
-- run_analysis.R
+- _run_analysis.R_
   - the R program that will read the data files and generate the above output text files.
 
 ### Pre-Requisites
-This program assumes that you have already downloaded and uncompressed the dataset in your local directory. You should then put the run_analysis.R file in the local directory, where the other files like features.txt, features_info.txt and activity_labels.txt can be found.
+This program assumes that you have already downloaded and uncompressed the dataset in your local directory. You should then put the run_analysis.R file in the local directory, where the other files like _features.txt_, _features_info.txt_ and _activity_labels.txt_ can be found.
 
 #### Libraries Required
 The R code uses the plyr and the reshape R packages.
