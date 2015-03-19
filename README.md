@@ -21,6 +21,7 @@ The R code uses the plyr and the reshape R packages.
 
 ### Program Algorithm
 The program follows the following steps:
+
 1. Read the list of features from features.txt (via getFeatures()), and extract only those features with "mean()" and "std()".
 2. Read the list of activities from activity_labels.txt (via getActivities()).
 3. Reads the train and test data sets and combines both data frames (via getconsdata()). For each data set, read in the associated files (via getdata()):
