@@ -29,5 +29,5 @@ The program follows the following steps:
   3. Read in the subject file
   4. Merge all 3 files into a single data frame and return the data frame.
   5. Combines both train and test data frames.
-9. Calculates the summary means for each variable (via gensummaryavgs()) by doing a melt and dcast.
-10. Writes out the tables to file (via writedata).
+4. Calculates the summary means for each variable (via gensummaryavgs()) by doing a melt and dcast.
+5. Writes out the tables to file (via writedata).
