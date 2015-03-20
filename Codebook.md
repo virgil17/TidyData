@@ -9,6 +9,7 @@ The remaining columns are based on the original data set columns which contain t
 In general, the names should be pretty descriptive - Body=Body, Acc=Accelerometer signal, Gyro=Gyroscope signal, Jerk=jerk signal, Mag=magnitude, mean=mean, std=standard deviation.
 
 According to the dataset information, here are some of the characteristics:
+
 1. The t-prefix denotes the values are time-domain signals, captured at a constant rate of 50Hz which were then filtered with a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz for noise removal.
 
 2. The acceleration signal is separated into body and gravity acceleration signals, using a low pass Butterworth filter with corner frequency of 0.3 Hz. These fields are denoted by BodyAcc=body acceleration, GravityAcc=gravity acceleration.
