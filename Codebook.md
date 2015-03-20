@@ -2,7 +2,7 @@
 
 This is the codebook for the tidy data set from Step 5 (_GY_tidydata_Step5.txt_).
 
-### Data Dictionary.
+### Data Dictionary
 The data consists of 82 columns. The **activityname**, **subject** and **activitycode** were fields that were parsed from separate files and added to the data.
 
 The remaining columns are based on the original data set columns which contain the mean and standard deviation data.
