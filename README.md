@@ -1,9 +1,11 @@
 # TidyData
 Data Cookbook and R Analysis program for cleaning up the dataset.
 
-There are 4 files in this directory:
+There are 5 files in this directory:
 - _README.md_
   - this file
+- _Codebook.md_
+  - the codebook file to describe the contents of the data.
 - _GY_tidydata_step4.txt_
   - output for Step 4, the consolidated training and test data set with subject and activity name.
 - _GY_tidydata_step5.txt_
