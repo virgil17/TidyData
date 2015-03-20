@@ -14,7 +14,7 @@ According to the dataset information, here are some of the characteristics:
 3. Body linear acceleration and angular velocity were derived in time to obtain the jerk signals denoted by BodyAccJerk and BodyGyroJerk.
 4. The f-prefix denotes the fields which are the result of application of a Fast Fourier Transform to the signals, and hence these signals are frequency domain signals.
 
-Here are the list of columns.
+Here are the list of columns:
 
 - **activityname**                 : Factor w/ 6 levels "LAYING","SITTING",..: 1 1 1 1 1 1 1 1 1 1 ...
   - The activity name, which is one of the following:
