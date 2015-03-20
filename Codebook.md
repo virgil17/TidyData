@@ -23,6 +23,9 @@ The data consists of 82 columns as described below.
     - 4 (SITTING)
     - 5 (STANDING)
     - 6 (LAYING)
+
+The remaining columns are based from the original data set columns.
+
 - tBodyAcc-mean-X              : num  0.222 0.281 0.276 0.264 0.278 ...
 - tBodyAcc-mean-Y              : num  -0.0405 -0.0182 -0.019 -0.015 -0.0183 ...
 - tBodyAcc-mean-Z              : num  -0.113 -0.107 -0.101 -0.111 -0.108 ...
