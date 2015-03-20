@@ -10,8 +10,11 @@ In general, the names should be pretty descriptive - Body=Body, Acc=Acceleromete
 
 According to the dataset information, here are some of the characteristics:
 1. The t-prefix denotes the values are time-domain signals, captured at a constant rate of 50Hz which were then filtered with a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz for noise removal.
+
 2. The acceleration signal is separated into body and gravity acceleration signals, using a low pass Butterworth filter with corner frequency of 0.3 Hz. These fields are denoted by BodyAcc=body acceleration, GravityAcc=gravity acceleration.
+
 3. Body linear acceleration and angular velocity were derived in time to obtain the jerk signals denoted by BodyAccJerk and BodyGyroJerk.
+
 4. The f-prefix denotes the fields which are the result of application of a Fast Fourier Transform to the signals, and hence these signals are frequency domain signals.
 
 Here are the list of columns:
