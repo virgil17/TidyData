@@ -2,7 +2,7 @@
 Data Cookbook and R Analysis program for cleaning up the dataset.
 
 There are 5 files in this directory:
-- _README.md_
+- [_README.md_](README.md)
   - this file
 - _Codebook.md_
   - the codebook file to describe the contents of the data.
