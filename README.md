@@ -21,12 +21,14 @@ The R code uses the plyr and the reshape R packages.
 1. Put _run_analyis.R_ file in your local directory where your dataset resides (see *Pre-Requisites*).
 2. Load up R.
 3. Source the script.
+
     ```source("run_analysis.R")
     ```
 4. Check the local directory for the generated text files.
 
 #### How to View the Data
 You can either click on the data from from this Github repository. Otherwise you can download the file and view it in R:
+
 ``` read.table("GY_tidydata_Step5.txt",header=TRUE)
 ```
 You can also use the supplied ``readdata()`` function in the _run_analysis.R_ file.
