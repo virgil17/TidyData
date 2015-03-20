@@ -1,6 +1,6 @@
 ## Codebook
 
-This is the codebook for the tidy data set from Step 5 (~GY_tidydata_Step5.txt~).
+This is the codebook for the tidy data set from Step 5 (_GY_tidydata_Step5.txt_).
 
 ### Data Dictionary.
 The data consists of 82 columns as described below.
