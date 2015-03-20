@@ -27,7 +27,8 @@ The R code uses the plyr and the reshape R packages.
 
 #### How to View the Data
 You can either click on the data from from this Github repository. Otherwise you can download the file and view it in R:
-``` read.table("GY_tidydata_Step5.txt",header=TRUE)
+```
+read.table("GY_tidydata_Step5.txt",header=TRUE)
 ```
 You can also use the supplied ``readdata()`` function in the _run_analysis.R_ file.
 
