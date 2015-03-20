@@ -4,13 +4,13 @@ Data Cookbook and R Analysis program for cleaning up the dataset.
 There are 5 files in this directory:
 - [_README.md_](README.md)
   - this file
-- _Codebook.md_
+- [_Codebook.md_](Codebook.md)
   - the codebook file to describe the contents of the data.
-- _GY_tidydata_step4.txt_
+- [_GY_tidydata_step4.txt_](GY_tidydata_step4.txt)
   - output for Step 4, the consolidated training and test data set with subject and activity name.
-- _GY_tidydata_step5.txt_
+- [_GY_tidydata_step5.txt_](GY_tidydata_step5.txt)
   - output for Step 5, containing the averages for each variable for each activity and subject.
-- _run_analysis.R_
+- [_run_analysis.R_](run_analysis.R)
   - the R program that will read the data files and generate the above output text files.
 
 ### Pre-Requisites
