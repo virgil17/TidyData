@@ -24,7 +24,7 @@ The data consists of 82 columns as described below.
     - 5 (STANDING)
     - 6 (LAYING)
 
-The remaining columns are based from the original data set columns.
+The remaining columns are based on the original data set columns which contain the mean and standard deviation data.
 
 - tBodyAcc-mean-X              : num  0.222 0.281 0.276 0.264 0.278 ...
 - tBodyAcc-mean-Y              : num  -0.0405 -0.0182 -0.019 -0.015 -0.0183 ...
